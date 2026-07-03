@@ -4,7 +4,9 @@ A modern personal finance dashboard built using **HTML, CSS, and Vanilla JavaScr
 
 FinanceX helps users manage income, expenses, budgets, and financial insights through a clean, responsive interface with interactive charts and LocalStorage support.
 
+##live link
 
+ https://alokdevops43.github.io/financex-dashboard/
 
 ---
 
